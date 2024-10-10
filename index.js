@@ -23,16 +23,6 @@ export default class Cl_main {
         Área resultante: ${rectangulo1.area()}
         <br>
         Perímetro: ${rectangulo1.perimetro()}
-        <br>
-        
-        <br>
-        Base del rectángulo: ${rectangulo2.base}
-        <br>
-        Altura: ${rectangulo2.altura}
-        <br>
-        Área resultante: ${rectangulo2.area()}
-        <br>
-        Perímetro: ${rectangulo2.perimetro()}
     `;
   }
 }
